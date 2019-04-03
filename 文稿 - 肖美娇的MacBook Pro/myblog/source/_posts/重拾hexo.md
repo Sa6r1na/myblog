@@ -71,7 +71,19 @@ tags:
 ![](https://ws1.sinaimg.cn/large/006tNbRwly1fy6bfxt7npj31ee0psadb.jpg)
 
 
+
 ## 总结
 
 * 以上，赶紧体验下hexo来写自己的博客
 * 其他的可以看下面这篇博客，有其他的详细介绍 [Hexo搭建博客教程](https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/)
+
+
+## 后续
+* 电脑重装了之后博客都没有了，之前备份到github在重新下下来。注意此时主题文件是没有备份的，要重新下载。 
+* 当前我用的主题是 [apollo](https://github.com/pinggod/hexo-theme-apollo)
+* blog目录下运行:
+
+``` 
+npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
+git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
+```
