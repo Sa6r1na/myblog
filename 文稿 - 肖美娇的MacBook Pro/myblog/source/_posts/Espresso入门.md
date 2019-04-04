@@ -13,6 +13,8 @@ tags:
 1. 第一个收录在Android Testing Supporting Library底下的测试框架
 2. 模拟用户的操作
 3. 自动等待，直到UI线程空闲，才会执行测试代码
+
+
 <!--more--->
 
 ### why espresso
