@@ -115,7 +115,7 @@ Collecting Pywin32 (from robotframework-ride)
   Could not find a version that satisfies the requirement Pywin32 (from robotframework-ride) (from versions: )
 No matching distribution found for Pywin32 (from robotframework-ride)
 ```
-####解决方案
+#### 解决方案
 
 ``` 
 git clone git@github.com:robotframework/RIDE.git
@@ -123,3 +123,8 @@ cd RIDE
 python setup.py build
 sudo python setup.py install
 ```
+
+* 运行ride.py,成功！环境已经搭建好！
+
+![](https://ws2.sinaimg.cn/large/006tNc79ly1g2etdjscj9j31j20ii4bq.jpg)
+
